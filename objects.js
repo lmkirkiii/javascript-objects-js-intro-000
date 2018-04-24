@@ -1,4 +1,4 @@
 var playlist = {
-  artist: 'Larry'
-  song: 'Love Song'
+  Artist: 'Larry'
+  Song: 'Love Song'
 }
